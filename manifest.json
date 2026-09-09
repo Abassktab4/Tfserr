@@ -1,0 +1,12 @@
+{
+  "name": "تفسير الطبري - جامع البيان",
+  "short_name": "تفسير الطبري",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "lang": "ar",
+  "dir": "rtl"
+}
